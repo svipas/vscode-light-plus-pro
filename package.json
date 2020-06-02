@@ -1,0 +1,48 @@
+{
+	"name": "light-plus-pro",
+	"displayName": "Light+ Pro",
+	"description": "Based on Light+ (default light) theme.",
+	"icon": "icon.png",
+	"version": "1.0.0",
+	"publisher": "svipas",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/svipas/vscode-light-plus-pro.git"
+	},
+	"bugs": {
+		"url": "https://github.com/svipas/vscode-light-plus-pro/issues"
+	},
+	"license": "MIT",
+	"engines": {
+		"vscode": "*"
+	},
+	"extensionKind": [
+		"ui"
+	],
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Light+ Pro",
+				"uiTheme": "vs",
+				"path": "./themes/light-plus-pro-color-theme.json"
+			}
+		]
+	},
+	"keywords": [
+		"light",
+		"plus",
+		"pro",
+		"theme",
+		"default",
+		"ui",
+		"updated",
+		"colors",
+		"color",
+		"revamped",
+		"redefined",
+		"improved"
+	]
+}

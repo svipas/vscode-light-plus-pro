@@ -1,0 +1,71 @@
+{
+	"$schema": "vscode://schemas/color-theme",
+	"name": "Light+ Pro",
+	"include": "./defaults/light_plus.json",
+	"colors": {
+		"editor.background": "#f9f9f9",
+		"breadcrumb.background": "#f9f9f9",
+		"editorGroupHeader.noTabsBackground": "#f9f9f9",
+		"editorGutter.background": "#f9f9f9",
+		"editorPane.background": "#f9f9f9",
+		"editorLineNumber.activeForeground": "#24292e",
+		"editorLineNumber.foreground": "#1b1f234d",
+		"editorIndentGuide.activeBackground": "#d7dbe0",
+		"editorIndentGuide.background": "#eeeeee",
+		"statusBar.background": "#f3f3f3",
+		"statusBar.foreground": "#6f6f6f",
+		"statusBar.noFolderBackground": "#f3f3f3",
+		"statusBar.noFolderForeground": "#6f6f6f",
+		"statusBar.debuggingBackground": "#cc6633",
+		"statusBar.debuggingForeground": "#ffffff",
+		"statusBarItem.activeBackground": "#00000030",
+		"statusBarItem.hoverBackground": "#00000020",
+		"statusBarItem.prominentBackground": "#007acc40",
+		"statusBarItem.prominentForeground": "#5f5f5f",
+		"statusBarItem.remoteBackground": "#007acc",
+		"statusBarItem.remoteForeground": "#ffffff",
+		"activityBar.background": "#f3f3f3",
+		"activityBar.foreground": "#000000",
+		"activityBar.inactiveForeground": "#6f6f6f",
+		"activityBar.border": "#e7e7e7",
+		"activityBar.activeBorder": "#007acc",
+		"activityBar.dropBackground": "#ffffff1f",
+		"activityBarBadge.background": "#007acc",
+		"activityBarBadge.foreground": "#ffffff",
+		"imagePreview.border": "#c8c8c8",
+		"notebook.cellToolbarSeperator": "#c8c8c8",
+		"tree.indentGuidesStroke": "#c8c8c8",
+		"panel.border": "#e7e7e7",
+		"terminal.border": "#e7e7e7",
+		"sideBarSectionHeader.border": "#e7e7e7",
+		"panelTitle.activeBorder": "#007acc"
+	},
+	"tokenColors": [
+		{
+			"scope": "comment",
+			"settings": {
+				"foreground": "#6a737d"
+			}
+		},
+		{
+			"scope": "markup.list",
+			"settings": {
+				"foreground": "#735c0f"
+			}
+		},
+		{
+			"scope": [
+				"entity.other.attribute-name",
+				"support.type.vendored.property-name",
+				"support.type.property-name",
+				"variable.css",
+				"variable.scss",
+				"variable.other.less",
+				"source.coffee.embedded"
+			],
+			"settings": {
+				"foreground": "#e00000"
+			}
+		}
+	]
+}
