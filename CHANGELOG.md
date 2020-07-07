@@ -1,5 +1,9 @@
 ## [Unreleased]
 
+## 1.1.0 (July 7, 2020)
+
+- Update default theme files from VS Code.
+
 ## 1.0.0 (June 2, 2020)
 
 - Change editor background color.

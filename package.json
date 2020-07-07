@@ -3,7 +3,7 @@
 	"displayName": "Light+ Pro",
 	"description": "Based on Light+ (default light) theme.",
 	"icon": "icon.png",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"publisher": "svipas",
 	"repository": {
 		"type": "git",
