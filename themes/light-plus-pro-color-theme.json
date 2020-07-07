@@ -1,3 +1,4 @@
+// https://github.com/microsoft/vscode/tree/master/extensions/theme-defaults/themes
 {
 	"$schema": "vscode://schemas/color-theme",
 	"name": "Light+ Pro",
